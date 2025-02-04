@@ -4,12 +4,11 @@
   "description": "Babel plugin for named asset imports in Create React App",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/babel-plugin-named-asset-import"
+    "url": "https://github.com/fdpamb/babel-plugin-named-asset-import"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/fdpamb/babel-plugin-named-asset-import/issues"
   },
   "main": "index.js",
   "files": [
